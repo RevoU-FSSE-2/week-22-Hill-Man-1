@@ -98,8 +98,11 @@ The app will be accessible at http://localhost:5000.
 ## Contributing
 Contributions are welcome! If you find a bug or want to add a new feature, please create an issue or a pull request.
 
+## POSTMAN LINK
+**https://www.postman.com/research-cosmonaut-88926417/workspace/w21/collection/29017942-f4453d55-55e9-414f-904a-3df4fedaf88e**
+
 ## FE REPO
-**https://github.com/Hill-Man-1/FE**
+**https://github.com/Hill-Man-1/week-22-fe**
 
 ## Author
 Hilman Syarifudin
